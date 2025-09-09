@@ -1,4 +1,4 @@
-# OsTicket Desk Implementation & L1 Support
+# OsTicket Help Desk Ticketing Implementation & L1 Support
 
 ## Overview
 This project demonstrates the full lifecycle of a scalable IT support system, from initial provisioning and configuration to real-world troubleshooting and documentation. It showcases my skills in system administration, database management, user support, and network diagnostics.
