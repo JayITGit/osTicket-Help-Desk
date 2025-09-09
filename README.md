@@ -11,7 +11,7 @@ This project demonstrates the full lifecycle of a scalable IT support system, fr
 The first phase involved building a functional web server environment from the ground up and deploying an enterprise-grade help desk solution.
 
 #### **Step 1: Provisioning a Local Server Environment**
-![Provisioned a local server environment (WAMP Stack) to host web applications.](screenshots/Server_Provisioning.png)
+![Provisioned a local server environment (WAMP Stack) to host web applications.](screenshots/server_provisioning.png)
 Provisioned a local server environment (WAMP Stack) to host web applications.
 
 #### **Step 2: Database Creation**
